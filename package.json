@@ -1,6 +1,6 @@
 {
   "name": "keila-swap-sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Light weigth Swap SDK for EVM compartible blockchain ",
   "main": "dist/index.js",
   "repository": {
